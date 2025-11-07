@@ -31,7 +31,7 @@ BMI=
 (height (m))
 2
 weight (kg)
-	​
+​
 
 🚀 How to Run
 
@@ -46,11 +46,11 @@ python bmi_calculator.py
 
 Enter your height (cm) and weight (kg), then click Calculate BMI
 
-📸 GUI Preview
 
-🟦 Clean interface with white background
-💡 Rounded calculate button
-📊 Displays BMI and category clearly in the center
+### Output
+![Output](Screenshots/output.png)
+
+📸 GUI Preview
 
 🛠️ Tech Stack
 
@@ -58,9 +58,4 @@ Language: Python
 
 Library: Tkinter (built-in GUI library)
 
-📋 Example Output
-Weight (kg)	Height (cm)	BMI	Category
-50	165	18.36	Underweight 😕
-60	170	20.76	Normal 😊
-80	175	26.12	Overweight 😐
-95	165	34.9	Obese 😟
+
